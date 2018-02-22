@@ -23,6 +23,10 @@
     <PackageReference Include="Prism.QuickStart.MFractor.Config" Version="1.0.3" PrivateAssets="all" />
     <PackageReference Include="LiveXAML" Version="2.1.19" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Include="Secrets.cs" />
+  </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Update="Resources\*.resx" Generator="ResXFileCodeGenerator" LastGenOutput="%(Filename).Designer.cs" />
