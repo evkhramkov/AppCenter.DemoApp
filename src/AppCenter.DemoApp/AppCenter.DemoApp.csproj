@@ -25,7 +25,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Compile Include="Secrets.cs" />
+    <Compile Include="Helpers/Secrets.cs" />
   </ItemGroup>
 
   <ItemGroup>
