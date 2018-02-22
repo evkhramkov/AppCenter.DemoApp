@@ -1,3 +1,3 @@
-ls
+ls ./src/AppCenter.DemoApp
 
-cat Secrets.cs
+cat ./src/AppCenter.DemoApp/Secrets.cs
